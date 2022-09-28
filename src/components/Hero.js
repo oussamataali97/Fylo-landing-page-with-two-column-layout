@@ -9,7 +9,7 @@ function Hero() {
         <div className="text">
             <p className='font-[700] text-3xl px-7 md:px-0 text-center md:text-left md:text-4xl'>  All your files in one secure location, accessible anywhere.</p>
             <p className='py-10 font-[700] text-gray-700'>  Fylo stores your most important files in one secure location. 
-                ccess them wherever you need, share and collaborate with friends, 
+                access them wherever you need, share and collaborate with friends, 
                     family, and co-workers.</p>
             <div className="mail">
                 <form action="" className='flex flex-col md:flex-row space-y-2 md:space-y-0  md:space-x-4 '>

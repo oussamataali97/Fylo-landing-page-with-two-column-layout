@@ -30,15 +30,15 @@ function Footer() {
 
                 </div>
                 <div className="social md:flex space-x-4 mr-16 justify-center hidden">
-                <FaFacebook  size={20}/>
-                <FaInstagram size={20}/>
-                <FaTwitter size={20}/>
+                 <a href='#'><FaFacebook  size={20} className='hover:text-blue-200'/></a>
+                <a href='#'> <FaInstagram size={20} className='hover:text-blue-200'/></a>
+                 <a href='#'><FaTwitter size={20} className='hover:text-blue-200'/></a>
                 </div>
         </div>
         <div className="social flex justify-center space-x-6 md:hidden ">
-                <FaFacebook size={30}/>
-                <FaInstagram size={30}/>
-                <FaTwitter size={30}/>
+                <a href='#'><FaFacebook size={30} className='hover:text-blue-200'/></a>
+                 <a href='#'><FaInstagram size={30}className='hover:text-blue-200' /></a>
+                 <a href='#'><FaTwitter size={30} className='hover:text-blue-200'/></a>
                 </div>
        
     </div>
